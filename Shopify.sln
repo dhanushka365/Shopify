@@ -5,6 +5,8 @@ VisualStudioVersion = 17.6.33815.320
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Shopify.ApiGateway", "Shopify.ApiGateway\Shopify.ApiGateway.csproj", "{F5E9C008-C8DB-4F48-B6D3-5702A040F2FE}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Shopify.User.Api", "Shopify.User.Api\Shopify.User.Api.csproj", "{A18CA2AE-6513-46D6-998D-7779FFC36F2C}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +17,10 @@ Global
 		{F5E9C008-C8DB-4F48-B6D3-5702A040F2FE}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{F5E9C008-C8DB-4F48-B6D3-5702A040F2FE}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{F5E9C008-C8DB-4F48-B6D3-5702A040F2FE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A18CA2AE-6513-46D6-998D-7779FFC36F2C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A18CA2AE-6513-46D6-998D-7779FFC36F2C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A18CA2AE-6513-46D6-998D-7779FFC36F2C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A18CA2AE-6513-46D6-998D-7779FFC36F2C}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
