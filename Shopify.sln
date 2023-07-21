@@ -11,6 +11,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Shopify.Product.Api", "Shop
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Shopify.Order.Api", "Shopify.Order.Api\Shopify.Order.Api.csproj", "{D42B3FAD-8119-4130-B47A-C82455275B6F}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Shofipy.Infrastructure", "Shofipy.Infrastructure\Shofipy.Infrastructure.csproj", "{62AD7F74-A5D9-427B-82D5-21ECBFCD5929}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -33,6 +35,10 @@ Global
 		{D42B3FAD-8119-4130-B47A-C82455275B6F}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{D42B3FAD-8119-4130-B47A-C82455275B6F}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{D42B3FAD-8119-4130-B47A-C82455275B6F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{62AD7F74-A5D9-427B-82D5-21ECBFCD5929}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{62AD7F74-A5D9-427B-82D5-21ECBFCD5929}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{62AD7F74-A5D9-427B-82D5-21ECBFCD5929}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{62AD7F74-A5D9-427B-82D5-21ECBFCD5929}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
